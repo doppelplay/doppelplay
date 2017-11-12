@@ -1,4 +1,4 @@
-#Kickoff meeting doppelplay
+# Kickoff meeting doppelplay
 
 
 Present @ Slack call, 2017-11-11 15:00 CET:
@@ -10,7 +10,7 @@ Present @ Slack call, 2017-11-11 15:00 CET:
 * Roy
 
 
-##Decisions
+## Decisions
 
 * We have decided on the language learning by lyrics project, because 
 that offers the best React challenge.
@@ -26,7 +26,7 @@ has time to work on this in the coming weeks.
 * Roy and Alan on the requirements & UI design.
 * Runar will be involved in both (perhaps as "product owner"?)
 
-##Tasks
+## Tasks
 * ~~|Roy|~~ Initiate a Github repository with a readme describing 
 the project.
 * ~~|Roy|~~ Make a Trello team with initial boards
@@ -38,7 +38,7 @@ and Github.
 
 From now on, I will keep the tasks in Trello.
 
-##Miscellaneous
+## Miscellaneous
 I did some research on what we can use for this project (information 
 sources, projects to use or fork). Here are some interesting things:
 
@@ -51,7 +51,7 @@ is a media browser that we can use for inspiration
 * [lyricstranslate.com](http://lyricstranslate.com/) website is not
 much too look at, but there is a ton of translated lyrics.
 
-##What's next?
+## What's next?
 In the next couple of days, I will formulate requirements and make 
 a picture of what I had in mind with this app. I hope that one of 
 you can help me out with this. It should be done by Wednesday. After 
